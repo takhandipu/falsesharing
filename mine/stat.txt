@@ -1,24 +1,16 @@
 
- Performance counter stats for './serial' (100 runs):
-
-                59      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +- 81.39% )
-             3,350      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  2.21% )
-
-       0.503278116 seconds time elapsed                                          ( +-  1.24% )
-
-
  Performance counter stats for './false' (100 runs):
 
-             1,949      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  1.96% )
-            18,771      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  3.90% )
+            76,813      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  2.92% )
+           319,200      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  1.29% )
 
-       0.853884455 seconds time elapsed                                          ( +-  0.86% )
+       7.944631937 seconds time elapsed                                          ( +-  0.39% )
 
 
  Performance counter stats for './no_false' (100 runs):
 
-               810      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  3.07% )
-             2,941      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  1.06% )
+             2,417      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  1.40% )
+             7,041      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.95% )
 
-       0.260645266 seconds time elapsed                                          ( +-  1.47% )
+       0.361246093 seconds time elapsed                                          ( +-  0.73% )
 
