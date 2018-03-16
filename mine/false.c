@@ -16,7 +16,7 @@ double compute(struct timespec start,struct timespec end) //computes time in mil
   return t;
 }
 
-int array[100];
+int array[1600];
 
 void *expensive_function(void *param) {     
   int   index = *((int*)param);
@@ -29,20 +29,24 @@ int main(int argc, char *argv[]) {
   int       first_elem  = 0;
   int       bad_elem    = 1;
   int       good_elem   = 99;
+  int i;
+  int indexes[16]; 
   double time1;
   double time2;
   double time3;
-  pthread_t     thread_1;
-  pthread_t     thread_2;
+  pthread_t     threads[16];
+  for(i=0; i<16;i++)indexes[i]=i*bad_elem;
 
 
   //---------------------------START--------parallel computation with False Sharing----------------------------
 
   clock_gettime(CLOCK_REALTIME,&tpBegin2);
-  pthread_create(&thread_1, NULL,expensive_function, (void*)&first_elem);
-  pthread_create(&thread_2, NULL,expensive_function, (void*)&bad_elem);
-  pthread_join(thread_1, NULL);
-  pthread_join(thread_2, NULL);
+  for(i=0; i<16;i++){
+    pthread_create(&threads[i], NULL,expensive_function, (void*)&indexes[i]);
+  }
+  for(i=0; i<16;i++){
+    pthread_join(threads[i], NULL);
+  }
   clock_gettime(CLOCK_REALTIME,&tpEnd2);
 
   //---------------------------END----------parallel computation with False Sharing----------------------------
