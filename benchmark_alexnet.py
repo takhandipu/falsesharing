@@ -4,9 +4,12 @@ from datetime import datetime
 import csv
 import math
 import time
+import os
 
 import tensorflow.python.platform
 import tensorflow as tf
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 FLAGS = tf.app.flags.FLAGS
 
@@ -184,7 +187,7 @@ def run_benchmark():
     init = tf.global_variables_initializer()
 
     # Start running operations on the Graph.
-    session_conf = tf.ConfigProto(intra_op_parallelism_threads=4,inter_op_parallelism_threads=4)
+    session_conf = tf.ConfigProto(intra_op_parallelism_threads=16,inter_op_parallelism_threads=16)
     sess = tf.Session(config=session_conf)
     sess.run(init)
 
