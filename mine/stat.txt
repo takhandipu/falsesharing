@@ -14,3 +14,27 @@
 
        0.361246093 seconds time elapsed                                          ( +-  0.73% )
 
+
+ Performance counter stats for './8' (100 runs):
+
+            54,686      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  0.68% )
+           202,103      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.56% )
+
+       6.627003006 seconds time elapsed                                          ( +-  0.30% )
+
+
+ Performance counter stats for './4' (100 runs):
+
+            35,491      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  0.44% )
+           113,088      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.47% )
+
+       3.405691216 seconds time elapsed                                          ( +-  0.14% )
+
+
+ Performance counter stats for './2' (100 runs):
+
+            11,809      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  1.12% )
+            66,072      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  1.26% )
+
+       1.536114125 seconds time elapsed                                          ( +-  0.82% )
+
