@@ -1,0 +1,24 @@
+
+ Performance counter stats for 'python benchmark_alexnet.py' (100 runs):
+
+         1,284,037      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  0.61% )
+        11,166,402      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.44% )
+
+       4.438744826 seconds time elapsed                                          ( +-  0.32% )
+
+
+ Performance counter stats for 'python benchmark_googlenet.py' (100 runs):
+
+         3,309,875      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  0.62% )  (100.00%)
+        18,507,350      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.47% )  (100.00%)
+
+       9.465179116 seconds time elapsed                                          ( +-  0.17% )
+
+
+ Performance counter stats for 'python benchmark_vgg.py' (100 runs):
+
+         5,127,486      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  0.52% )  (100.00%)
+        25,901,283      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  0.62% )  (100.00%)
+
+      29.624513307 seconds time elapsed                                          ( +-  0.17% )
+

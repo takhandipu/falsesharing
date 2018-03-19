@@ -26,7 +26,7 @@ tf.app.flags.DEFINE_string('data_format', 'NHWC',
                            """The data format for Convnet operations.
                            Can be either NHWC or NCHW.
                            """)
-tf.app.flags.DEFINE_string('csv_file', 'vgg.csv',
+tf.app.flags.DEFINE_string('csv_file', 'vgg_16.csv',
                            """File to output timing information to in csv
                            format. If not file is passed in, csv file will
                            not be cteated.
@@ -48,7 +48,7 @@ def _conv(inpOp, nIn, nOut, kH, kW, dH, dW, padType):
     conv_counter += 1
     with tf.name_scope(name) as scope:
         kernel = tf.Variable(tf.truncated_normal([kH, kW, nIn, nOut],
-                                                 dtype=tf.float32,
+                                                 dtype=tf.float16,
                                                  stddev=1e-1), name='weights')
         if FLAGS.data_format == 'NCHW':
           strides = [1, 1, dH, dW]
@@ -56,7 +56,7 @@ def _conv(inpOp, nIn, nOut, kH, kW, dH, dW, padType):
           strides = [1, dH, dW, 1]
         conv = tf.nn.conv2d(inpOp, kernel, strides, padding=padType,
                             data_format=FLAGS.data_format)
-        biases = tf.Variable(tf.constant(0.0, shape=[nOut], dtype=tf.float32),
+        biases = tf.Variable(tf.constant(0.0, shape=[nOut], dtype=tf.float16),
                              trainable=True, name='biases')
         bias = tf.reshape(tf.nn.bias_add(conv, biases,
                                          data_format=FLAGS.data_format),
@@ -72,9 +72,9 @@ def _affine(inpOp, nIn, nOut):
     affine_counter += 1
     with tf.name_scope(name) as scope:
         kernel = tf.Variable(tf.truncated_normal([nIn, nOut],
-                                                 dtype=tf.float32,
+                                                 dtype=tf.float16,
                                                  stddev=1e-1), name='weights')
-        biases = tf.Variable(tf.constant(0.0, shape=[nOut], dtype=tf.float32),
+        biases = tf.Variable(tf.constant(0.0, shape=[nOut], dtype=tf.float16),
                              trainable=True, name='biases')
         affine1 = tf.nn.relu_layer(inpOp, kernel, biases, name=name)
         parameters += [kernel, biases]
@@ -174,7 +174,7 @@ def run_benchmark():
       image_shape = [FLAGS.batch_size, 3, image_size, image_size]
     else:
       image_shape = [FLAGS.batch_size, image_size, image_size, 3]
-    images = tf.Variable(tf.ones(image_shape, dtype=tf.float32))
+    images = tf.Variable(tf.ones(image_shape, dtype=tf.float16))
 
     labels = tf.Variable(tf.ones([FLAGS.batch_size],
                                  dtype=tf.int32))

@@ -25,7 +25,7 @@ tf.app.flags.DEFINE_string('data_format', 'NHWC',
                            """The data format for Convnet operations.
                            Can be either NHWC or NCHW.
                            """)
-tf.app.flags.DEFINE_string('csv_file', 'd_alex.csv',
+tf.app.flags.DEFINE_string('csv_file', 'alex_16.csv',
                            """File to output timing information to in csv
                            format. If not file is passed in, csv file will
                            not be cteated.
