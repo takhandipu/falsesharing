@@ -1,0 +1,201 @@
+2018-03-21 23:01:37.960161: step 0, duration = 0.051
+2018-03-21 23:01:37.960233: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:39.725353: step 0, duration = 0.051
+2018-03-21 23:01:39.725452: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:41.397802: step 0, duration = 0.051
+2018-03-21 23:01:41.397942: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:43.172819: step 0, duration = 0.051
+2018-03-21 23:01:43.172890: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:44.908753: step 0, duration = 0.051
+2018-03-21 23:01:44.908827: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:46.633209: step 0, duration = 0.050
+2018-03-21 23:01:46.633359: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:01:48.330213: step 0, duration = 0.051
+2018-03-21 23:01:48.330335: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:50.041350: step 0, duration = 0.052
+2018-03-21 23:01:50.041502: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:01:51.761706: step 0, duration = 0.051
+2018-03-21 23:01:51.761784: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:53.596666: step 0, duration = 0.052
+2018-03-21 23:01:53.596818: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:01:55.356263: step 0, duration = 0.053
+2018-03-21 23:01:55.356341: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:01:57.134095: step 0, duration = 0.051
+2018-03-21 23:01:57.134169: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:01:58.800722: step 0, duration = 0.051
+2018-03-21 23:01:58.800798: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:00.554610: step 0, duration = 0.055
+2018-03-21 23:02:00.554681: Forward-backward across 1 steps, 0.055 +/- 0.000 sec / batch
+2018-03-21 23:02:02.286197: step 0, duration = 0.052
+2018-03-21 23:02:02.286276: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:03.976400: step 0, duration = 0.051
+2018-03-21 23:02:03.976478: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:05.685738: step 0, duration = 0.056
+2018-03-21 23:02:05.685818: Forward-backward across 1 steps, 0.056 +/- 0.000 sec / batch
+2018-03-21 23:02:07.449954: step 0, duration = 0.050
+2018-03-21 23:02:07.450025: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:02:09.223689: step 0, duration = 0.051
+2018-03-21 23:02:09.223758: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:11.005537: step 0, duration = 0.051
+2018-03-21 23:02:11.005612: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:12.655026: step 0, duration = 0.038
+2018-03-21 23:02:12.655143: Forward-backward across 1 steps, 0.038 +/- 0.000 sec / batch
+2018-03-21 23:02:14.289570: step 0, duration = 0.050
+2018-03-21 23:02:14.289707: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:02:16.097891: step 0, duration = 0.050
+2018-03-21 23:02:16.097962: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:02:17.808825: step 0, duration = 0.051
+2018-03-21 23:02:17.808988: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:19.626138: step 0, duration = 0.053
+2018-03-21 23:02:19.626213: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:02:21.337770: step 0, duration = 0.051
+2018-03-21 23:02:21.337902: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:22.956393: step 0, duration = 0.051
+2018-03-21 23:02:22.956466: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:24.833312: step 0, duration = 0.052
+2018-03-21 23:02:24.833473: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:26.537261: step 0, duration = 0.050
+2018-03-21 23:02:26.537337: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:02:28.237375: step 0, duration = 0.038
+2018-03-21 23:02:28.237441: Forward-backward across 1 steps, 0.038 +/- 0.000 sec / batch
+2018-03-21 23:02:29.819357: step 0, duration = 0.053
+2018-03-21 23:02:29.819433: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:02:31.455928: step 0, duration = 0.052
+2018-03-21 23:02:31.456051: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:33.126810: step 0, duration = 0.051
+2018-03-21 23:02:33.126887: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:34.837175: step 0, duration = 0.052
+2018-03-21 23:02:34.837300: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:36.575291: step 0, duration = 0.053
+2018-03-21 23:02:36.575360: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:02:38.268365: step 0, duration = 0.052
+2018-03-21 23:02:38.268437: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:40.033287: step 0, duration = 0.052
+2018-03-21 23:02:40.033358: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:41.634312: step 0, duration = 0.052
+2018-03-21 23:02:41.634415: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:43.384888: step 0, duration = 0.052
+2018-03-21 23:02:43.384964: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:45.097700: step 0, duration = 0.052
+2018-03-21 23:02:45.097780: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:46.808251: step 0, duration = 0.051
+2018-03-21 23:02:46.808400: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:48.577032: step 0, duration = 0.050
+2018-03-21 23:02:48.577212: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:02:50.275072: step 0, duration = 0.051
+2018-03-21 23:02:50.275199: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:51.987555: step 0, duration = 0.052
+2018-03-21 23:02:51.987707: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:53.731102: step 0, duration = 0.051
+2018-03-21 23:02:53.731175: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:55.434038: step 0, duration = 0.052
+2018-03-21 23:02:55.434164: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:02:57.058273: step 0, duration = 0.051
+2018-03-21 23:02:57.058344: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:02:58.653674: step 0, duration = 0.037
+2018-03-21 23:02:58.653828: Forward-backward across 1 steps, 0.037 +/- 0.000 sec / batch
+2018-03-21 23:03:00.361600: step 0, duration = 0.050
+2018-03-21 23:03:00.361677: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:02.084386: step 0, duration = 0.053
+2018-03-21 23:03:02.084537: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:03.737549: step 0, duration = 0.052
+2018-03-21 23:03:03.737703: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:05.581152: step 0, duration = 0.051
+2018-03-21 23:03:05.581229: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:07.298203: step 0, duration = 0.053
+2018-03-21 23:03:07.298330: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:09.018927: step 0, duration = 0.039
+2018-03-21 23:03:09.018992: Forward-backward across 1 steps, 0.039 +/- 0.000 sec / batch
+2018-03-21 23:03:10.660216: step 0, duration = 0.051
+2018-03-21 23:03:10.660293: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:12.432371: step 0, duration = 0.052
+2018-03-21 23:03:12.432448: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:14.160798: step 0, duration = 0.052
+2018-03-21 23:03:14.160880: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:15.861737: step 0, duration = 0.050
+2018-03-21 23:03:15.861898: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:17.663556: step 0, duration = 0.050
+2018-03-21 23:03:17.663631: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:19.432488: step 0, duration = 0.050
+2018-03-21 23:03:19.432561: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:21.142215: step 0, duration = 0.051
+2018-03-21 23:03:21.142368: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:22.828394: step 0, duration = 0.050
+2018-03-21 23:03:22.828462: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:24.359624: step 0, duration = 0.052
+2018-03-21 23:03:24.359745: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:26.082882: step 0, duration = 0.052
+2018-03-21 23:03:26.082966: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:27.815186: step 0, duration = 0.052
+2018-03-21 23:03:27.815338: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:29.510641: step 0, duration = 0.050
+2018-03-21 23:03:29.510774: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:31.228908: step 0, duration = 0.052
+2018-03-21 23:03:31.228989: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:32.898471: step 0, duration = 0.038
+2018-03-21 23:03:32.898590: Forward-backward across 1 steps, 0.038 +/- 0.000 sec / batch
+2018-03-21 23:03:34.493367: step 0, duration = 0.051
+2018-03-21 23:03:34.493498: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:36.266073: step 0, duration = 0.053
+2018-03-21 23:03:36.266154: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:38.063038: step 0, duration = 0.054
+2018-03-21 23:03:38.063117: Forward-backward across 1 steps, 0.054 +/- 0.000 sec / batch
+2018-03-21 23:03:39.832624: step 0, duration = 0.051
+2018-03-21 23:03:39.832701: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:41.491346: step 0, duration = 0.053
+2018-03-21 23:03:41.491421: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:43.216208: step 0, duration = 0.051
+2018-03-21 23:03:43.216325: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:44.980162: step 0, duration = 0.050
+2018-03-21 23:03:44.980318: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:46.733466: step 0, duration = 0.051
+2018-03-21 23:03:46.733571: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:03:48.482415: step 0, duration = 0.052
+2018-03-21 23:03:48.482516: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:50.232058: step 0, duration = 0.050
+2018-03-21 23:03:50.232184: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:03:51.950044: step 0, duration = 0.054
+2018-03-21 23:03:51.950122: Forward-backward across 1 steps, 0.054 +/- 0.000 sec / batch
+2018-03-21 23:03:53.691356: step 0, duration = 0.053
+2018-03-21 23:03:53.691505: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:55.507945: step 0, duration = 0.053
+2018-03-21 23:03:55.508075: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:03:57.316288: step 0, duration = 0.052
+2018-03-21 23:03:57.316449: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:03:59.087327: step 0, duration = 0.051
+2018-03-21 23:03:59.087455: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:00.822599: step 0, duration = 0.052
+2018-03-21 23:04:00.822675: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:04:02.474792: step 0, duration = 0.051
+2018-03-21 23:04:02.474967: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:04.262974: step 0, duration = 0.051
+2018-03-21 23:04:04.263046: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:06.046847: step 0, duration = 0.051
+2018-03-21 23:04:06.046932: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:07.758528: step 0, duration = 0.051
+2018-03-21 23:04:07.758601: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:09.401272: step 0, duration = 0.051
+2018-03-21 23:04:09.401400: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:11.078677: step 0, duration = 0.053
+2018-03-21 23:04:11.078835: Forward-backward across 1 steps, 0.053 +/- 0.000 sec / batch
+2018-03-21 23:04:12.768635: step 0, duration = 0.050
+2018-03-21 23:04:12.768708: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:04:14.488223: step 0, duration = 0.051
+2018-03-21 23:04:14.488329: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:16.218860: step 0, duration = 0.051
+2018-03-21 23:04:16.218943: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:17.902473: step 0, duration = 0.052
+2018-03-21 23:04:17.902603: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:04:19.635584: step 0, duration = 0.050
+2018-03-21 23:04:19.635740: Forward-backward across 1 steps, 0.050 +/- 0.000 sec / batch
+2018-03-21 23:04:21.340865: step 0, duration = 0.051
+2018-03-21 23:04:21.340936: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:23.109481: step 0, duration = 0.051
+2018-03-21 23:04:23.109559: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:24.869441: step 0, duration = 0.052
+2018-03-21 23:04:24.869523: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+2018-03-21 23:04:26.455987: step 0, duration = 0.051
+2018-03-21 23:04:26.456137: Forward-backward across 1 steps, 0.051 +/- 0.000 sec / batch
+2018-03-21 23:04:28.205271: step 0, duration = 0.052
+2018-03-21 23:04:28.205385: Forward-backward across 1 steps, 0.052 +/- 0.000 sec / batch
+perf stat -r 100 -e cpu/event=0xd2,umask=0x4,name=mem_load_uops_l3_hit_retired_xsnp_hitm/ python benchmark_alexnet.py
