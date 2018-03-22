@@ -1,0 +1,8 @@
+
+ Performance counter stats for 'python conv.py' (100 runs):
+
+            38,218      mem_load_uops_l3_hit_retired_xsnp_hitm                                     ( +-  1.00% )
+           141,063      mem_load_uops_l3_miss_retired_remote_hitm                                     ( +-  2.99% )
+
+       1.134816176 seconds time elapsed                                          ( +-  0.45% )
+
