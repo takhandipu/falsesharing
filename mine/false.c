@@ -21,7 +21,7 @@ int array[1600];
 void *expensive_function(void *param) {     
   int   index = *((int*)param);
   int   i;
-  for (i = 0; i < 100000000; i++)
+  for (i = 0; i < 10000000; i++)
     array[index]+=1;
 } 
 
